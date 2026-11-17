@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.OverlayWindow" parent="android:Theme.Material.NoActionBar" />
+</resources>

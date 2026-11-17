@@ -1,0 +1,4 @@
+<resources>
+    <!-- A UI é 100% Compose; o tema XML só define a janela (splash/fundo) da Activity. -->
+    <style name="Theme.OverlayWindow" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
